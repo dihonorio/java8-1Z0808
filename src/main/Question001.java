@@ -6,7 +6,7 @@ public class Question001 {
 		Short s1 = 200;
 		Integer s2 = 200;
 		Long s3 = (long) s1 + s2;
-		String s4 = (String) (s3 * s2);
+		//String s4 = (String) (s3 * s2); //Cannot cast from long to String
 
 	}
 

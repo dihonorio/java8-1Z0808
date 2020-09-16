@@ -1,7 +1,5 @@
 package main;
 
-import java.io.*;
-
 public class Person {
 
 		String name;
@@ -13,10 +11,9 @@ public class Person {
 		
 		
 		public Person(String name, int age) {
-			Person(name);
+//			Person(name);
 			setAge(age);
 		}
-
 
 		public String getName() {
 			return name;
