@@ -2,7 +2,7 @@ package main;
 
 import java.util.function.Predicate;
 
-public class Question16 {
+public class Question016 {
 	public static void main(String[] args) {
 		String[] arr = { "A", "ab", "bab", "Aa", "bb", "baba", "aba", "Abab" };
 

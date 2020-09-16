@@ -16,7 +16,7 @@ class Student {
      }
 }
  
-public class Question15 {
+public class Question015 {
      public static void main(String[] args) {
          ArrayList<Student> students = new ArrayList<>();
          students.add(new Student("James", 25));

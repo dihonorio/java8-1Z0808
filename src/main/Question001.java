@@ -1,6 +1,6 @@
 package main;
 
-public class Question1 {
+public class Question001 {
 
 	public static void main(String[] args) {
 		Short s1 = 200;

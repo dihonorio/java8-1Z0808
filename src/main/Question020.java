@@ -17,7 +17,7 @@ class NewsPaper extends Paper { //Line 12
    
 }
 
-public class Question20 {
+public class Question020 {
     public static void main(String[] args) {
     	  try {
               main(args);

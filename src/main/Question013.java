@@ -1,6 +1,6 @@
 package main;
 
-public class Question13 {
+public class Question013 {
 
 	 private static void m(int x) {
          System.out.println("int version");

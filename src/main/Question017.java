@@ -1,6 +1,6 @@
 package main;
 
-public class Question17 {
+public class Question017 {
     public static void main(String[] args) {
         Integer var = 7;
     	/*INSERT*/

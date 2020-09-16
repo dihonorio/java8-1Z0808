@@ -1,6 +1,6 @@
 package main;
 
-public class Question4 {
+public class Question004 {
 
 	public static void main(String[] args) {
 		String[] arr = {"A","B","C","D"};

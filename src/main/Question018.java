@@ -7,7 +7,7 @@ class SpecialString {
     }
 }
 
-public class Question18 {
+public class Question018 {
     public static void main(String[] args) {
         System.out.println(new String("Java"));
         System.out.println(new StringBuilder("Java"));

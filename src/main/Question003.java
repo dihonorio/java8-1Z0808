@@ -13,13 +13,13 @@ class B extends A{
 }
 
 
-class Question3 extends B{
+class Question003 extends B{
 
-	public Question3() {
+	public Question003() {
 		System.out.println("C ");
 	}
 	public static void main(String[] args) {
-		Question3 c = new Question3();
+		Question003 c = new Question003();
 	}
 
 }

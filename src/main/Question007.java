@@ -1,6 +1,6 @@
 package main;
 
-public class Question7 {
+public class Question007 {
 
 	public static void main(String[] args) {
 		String opt = "true";//boolean opt = true;

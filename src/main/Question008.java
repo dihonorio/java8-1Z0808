@@ -2,7 +2,7 @@ package main;
 
 import java.io.*;
 
-public class Question8 {
+public class Question008 {
 
 //	public void a() {}
 //	int a;

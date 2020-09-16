@@ -1,6 +1,6 @@
 package main;
 
-public class Question2 {
+public class Question002 {
 
 	public static void main(String[] args) {
 		int x = 100;

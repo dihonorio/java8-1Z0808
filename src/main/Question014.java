@@ -2,7 +2,7 @@ package main;
 
 import java.util.ArrayList;
 
-public class Question14 {
+public class Question014 {
 	public static void main(String[] args) {
 		short[] args = new short[] { 50, 50 };
 		args[0] = 5;
